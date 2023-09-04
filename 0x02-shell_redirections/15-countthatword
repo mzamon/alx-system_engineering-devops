@@ -1,2 +1,1 @@
-#!/bin/bash
-grep -c -i "bin" /etc/passwd
+vim 15-countthatword
